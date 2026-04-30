@@ -1,2 +1,36 @@
+{
+  "contact_paragraph": "ကျွန်ုပ်တို့ Boogyi Card Game အဖွဲ့နှင့် ဆက်သွယ်လိုပါက အောက်ပါ ချန်နယ်များမှတစ်ဆင့် ဆက်သွယ်နိုင်ပါသည်။ ကျွန်ုပ်တို့ အဖွဲ့သည် သင့်အတွက် အကောင်းဆုံး ဝန်ဆောင်မှုပေးနိုင်ရန် ကြိုးစားလျက်ရှိပါသည်။",
+  "contact_buttons": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/doxcrasyl",
+      "icon": "telegram",
+      "color": "#0088cc"
+    },
+    {
+      "label": "Facebook Page",
+      "url": "https://facebook.com/your_page",
+      "icon": "facebook",
+      "color": "#1877f2"
+    },
+    {
+      "label": "Viber",
+      "url": "viber://chat?number=%2B959123456789",
+      "icon": "viber",
+      "color": "#7360f2"
+    },
+    {
+      "label": "Phone",
+      "url": "tel:+959123456789",
+      "icon": "phone",
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:support@boogyigame.com",
+      "icon": "email",
+      "color": "#FF5722"
+    }
+  ]
+}
 
-abcd
