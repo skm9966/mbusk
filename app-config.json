@@ -1,6 +1,11 @@
 {
   "welcome_title": "နာမည်ချိန်းရန်",
   "welcome_subtitle": "ကြိုက်တာရေးရန်",
+  "welcome_play_button": "ကစားမယ်",
+  "welcome_contact_button": "ဆက်သွယ်ရန်",
+  "welcome_exit_button": "ထွက်မယ်",
+  "welcome_logo_url": "https://raw.githubusercontent.com/skm9966/mbusk/refs/heads/main/logo.png",
+  
   "contact_paragraph": "ကြိုက်တာရေးနိုင်ပါသည် စာပိုဒ်",
   "contact_buttons": [
     {
@@ -35,4 +40,3 @@
     }
   ]
 }
-
