@@ -5,7 +5,12 @@
   "welcome_contact_button": "ဆက်သွယ်ရန်",
   "welcome_exit_button": "ထွက်မယ်",
   "welcome_logo_url": "https://raw.githubusercontent.com/skm9966/mbusk/refs/heads/main/logo.png",
-  
+
+  "splash_image_url": "https://raw.githubusercontent.com/skm9966/mbusk/refs/heads/main/splash.png",
+  "splash_show_more_info": true,
+  "splash_more_info_label": "More Info",
+  "splash_duration_seconds": 4,
+
   "contact_paragraph": "ကြိုက်တာရေးနိုင်ပါသည် စာပိုဒ်",
   "contact_buttons": [
     {
