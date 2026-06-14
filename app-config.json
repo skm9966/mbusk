@@ -15,8 +15,14 @@
   "contact_buttons": [
     {
       "label": "Mail",
-      "url": "mail@bm9skm.pages.dev",
+      "url": "mailto:mail@bm9skm.pages.dev",
       "icon": "email",
+      "color": "#0088cc"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/your_username",
+      "icon": "telegram",
       "color": "#0088cc"
     }
   ]
