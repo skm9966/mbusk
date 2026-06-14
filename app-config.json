@@ -18,12 +18,6 @@
       "url": "mailto:mail@bm9skm.pages.dev",
       "icon": "email",
       "color": "#0088cc"
-    },
-    {
-      "label": "Telegram",
-      "url": "https://t.me/mskm9_bot",
-      "icon": "telegram",
-      "color": "#0088cc"
     }
   ]
 }
