@@ -24,6 +24,12 @@
       "url": "mailto:mail@bm9skm.pages.dev",
       "icon": "viber",
       "color": "#7360F2"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/m9skmboss_bot",
+      "icon": "telegram",
+      "color": "#7360F2"
     }
   ]
 }
