@@ -18,6 +18,12 @@
       "url": "mailto:mail@bm9skm.pages.dev",
       "icon": "email",
       "color": "#0088cc"
+    },
+     {
+      "label": "Telegram",
+      "url": "mailto:mail@bm9skm.pages.dev",
+      "icon": "Telegram",
+      "color": "#0088cc"
     }
   ]
 }
