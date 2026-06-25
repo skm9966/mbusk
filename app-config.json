@@ -6,7 +6,7 @@
   "welcome_contact_button": "အကောင့်ဖွင့်မယ်",
   "welcome_logo_url": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg",
   "splash_image_url": "https://raw.githubusercontent.com/skm9966/mbusk/refs/heads/main/splash.png",
-  "splash_show_more_info": false,
+  "splash_show_more_info": true,
   "splash_more_info_label": "More Info",
   "splash_more_info_url": "https://google.com",
   "splash_duration_seconds": 4,
@@ -18,18 +18,6 @@
       "url": "mailto:mail@bm9skm.pages.dev",
       "icon": "email",
       "color": "#0088cc"
-    },
-     {
-      "label": "Viber",
-      "url": "mailto:mail@bm9skm.pages.dev",
-      "icon": "viber",
-      "color": "#7360F2"
-    },
-    {
-      "label": "Telegram",
-      "url": "https://t.me/m9skmboss_bot",
-      "icon": "telegram",
-      "color": "#7360F2"
     }
   ]
 }
