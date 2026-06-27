@@ -1,9 +1,9 @@
 {
-  "welcome_title": "BuuGYI",
+  "welcome_title": "M9SKM BUUGYI",
   "welcome_subtitle": "Classic Boogyi card game! Play against smart bots anytime, anywhere for fun",
   "welcome_play_button": "ကစားမယ်",
   "welcome_exit_button": "ထွက်မယ်",
-  "welcome_contact_button": "ဆက်သွယ်ရန်",
+  "welcome_contact_button": "အကောင့်ဖွင့်ကစားရန်",
 
   "welcome_logo_url": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg",
   
@@ -13,13 +13,19 @@
   "splash_more_info_url": "https://google.com",
   "splash_duration_seconds": 4,
 
-  "contact_paragraph": "Classic Boogyi card game! Play against smart bots anytime, anywhere for fun",
+  "contact_paragraph": "တယ်လီဂရမ်/ဘိုက်ဘာမှအကောင့်ဖွင့်ပီးဖရီးတထော်ရယူနိုင်ပါသည်!",
   "contact_buttons": [
     {
-      "label": "Mail",
-      "url": "mailto:mail@bm9skm.pages.dev",
-      "icon": "email",
-      "color": "#0088cc"
+      "label": "Telegram",
+      "url": "https://t.me/m9skmboss_bot",
+      "icon": "Telegram",
+      "color": "#F7F7F7"
+    },
+    {
+      "label": "Viber",
+      "url": "viber://pa?chatURI=avediaryonline&text=Hi",
+      "icon": "viber",
+      "color": "#F7F7F7"
     }
   ]
 }
